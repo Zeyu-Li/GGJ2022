@@ -21,7 +21,7 @@
 
 ## About 🔴
 
-Through calm and stormy you try to reach your destination with your tons to loot but the danger lies under waves. Try to survive the danger by using your cannon (with <kbd>space</kbd>) and steer your ship to safety using arrow key (or wasd)! 
+Through calm and stormy you try to reach your destination with your tons to loot but the danger lies under waves. Try to survive the danger by using your canon (with <kbd>space</kbd>) and steer your ship to safety using arrow key (or wasd)! 
 
 
 
